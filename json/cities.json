@@ -1,0 +1,283 @@
+[
+    {
+        "cName" : "Mississauga",
+        "province" : "Ontario",
+        "abbreviation": "ON",
+        "description" : "Mississauga is a young, vibrant, and thriving city in the heart of one of the most exciting and prosperous regions in North America.",
+        "colleges" : ["Metalworks Institute", "Fox College of Business", "University of Toronto - Mississauga"]
+    },
+    {
+        "cName" : "Brampton",
+        "province" : "Ontario",
+        "abbreviation": "ON",
+        "description" : "Brampton is Canada's 9th largest city, moving from a small population of 500 in 1853, to 656,480 in 2021. It is the fastest growing of Canada's largest 25 cities.",
+        "colleges" : ["Sheridan college", "Trio College", "Humber college"]
+    },
+    {
+        "cName" : "Vaughn",
+        "province" : "Ontario",
+        "abbreviation": "ON",
+        "description" : "Vaughan is a vibrant and prosperous community and one of Canada's fastest growing cities. ",
+        "colleges" : ["Sheridan college", "Trio College", "Humber college"]
+    }, 
+    
+    {
+        "cName" : "Vancouver",
+        "province" : "British Columbia",
+        "abbreviation": "BC",
+        "description" : "The City of Vancouver is a coastal, seaport city on the mainland of British Columbia.",
+        "colleges" : ["Sheridan college", "Trio College", "Humber college"]
+    },
+    {
+        "cName" : "Abbotsford",
+        "province" : "British Columbia",
+        "abbreviation": "BC",
+        "description" : "Abbotsford is a city located in British Columbia, adjacent to the Canada–United States border, Greater Vancouver and the Fraser River",
+        "colleges" : ["Abbotsford Science college", "Abbotsford Arts College", "Abbotsford Engineering College"]
+    },
+    {
+        "cName" : "Surrey",
+        "province" : "British Columbia",
+        "abbreviation": "BC",
+        "description" : "The City of Surrey is the largest city by land area and second most populated in Metro Vancouver",
+        "colleges" : ["Surrey Science college", "Surrey Arts College", "Surrey Engineering College"]
+    },
+   
+    {
+        "cName" : "Saint John",
+        "province" : "New Brunswick",
+        "abbreviation": "NB",
+        "description" : "Saint John is a seaport city of the Atlantic Ocean located on the Bay of Fundy in the province of New Brunswick, Canada. Saint John is the oldest incorporated city in Canada, established by royal charter on May 18, 1785, during the reign of King George III.",
+        "colleges" : ["Saint John Science college", "Saint John Arts College", "Saint John Engineering College"]
+    },
+    {
+        "cName" : "Edmundston",
+        "province" : "New Brunswick",
+        "abbreviation": "NB",
+        "description" : "With a population of nearly 17,000 residents, the municipality of Edmundston, New Brunswick is the largest service centre north of Fredericton. This city is known for its dynamism, creativity and openness.",
+        "colleges" : ["Edmundston Science college", "Edmundston Arts College", "Edmundston Engineering College"]
+    },
+    {
+        "cName" : "Moncton",
+        "province" : "New Brunswick",
+        "abbreviation": "NB",
+        "description" : "Situated in the Petitcodiac River Valley, Moncton lies at the geographic centre of the Maritime Provinces. The city has earned the nickname Hub City because of its central inland location in the region and its history as a railway and land transportation hub for the Maritimes.",
+        "colleges" : ["Moncton Science college", "Moncton Arts College", "Moncton Engineering College"]
+    },
+ 
+    {
+        "cName" : "Québec City",
+        "province" : "Quebec",
+        "abbreviation": "QC",
+        "description" : "It is the only remaining walled city in North America north of Mexico and was recognized as a UNESCO World Heritage site in 1985. Among its other distinguishing characteristics are its narrow cobblestone streets, stone buildings, fortifications, and rich French Canadian culture grounded in the French language.",
+        "colleges" : ["Québec City Science college", "Québec City Arts College", "Québec City Engineering College"]
+    },
+    {
+        "cName" : "Montreal",
+        "province" : "Quebec",
+        "abbreviation": "QC",
+        "description" : "Montreal is a major industrial centre, commercial and financial metropolis, railway and maritime bridgehead, and one of the centres of francophone culture in North America.",
+        "colleges" : ["Montreal Science college", "Montreal Arts College", "Montreal Engineering College"]
+    },
+    {
+        "cName" : "Levis",
+        "province" : "Quebec",
+        "abbreviation": "QC",
+        "description" : "Located in the vicinity of the river and facing Quebec City, Lévis offers exceptional panoramic views. It is the main urban, business, and manufacturing centre of the Chaudière-Appalaches region.",
+        "colleges" : ["Levis Science college", "Levis Arts College", "Levis Engineering College"]
+    },
+    
+    {
+        "cName" : "Kensington",
+        "province" : "Prince Edward Island",
+        "abbreviation": "PE",
+        "description" : "Kensington is a Canadian town located in Prince County, Prince Edward Island. It is 15 km (9.3 mi) northeast of the city of Summerside. In 2021, its population was 1,812.",
+        "colleges" : ["Kensington Science college", "Kensington Arts College", "Kensington Engineering College"]
+    },
+    {
+        "cName" : "Alberton",
+        "province" : "Prince Edward Island",
+        "abbreviation": "PE",
+        "description" : "Known as the Heart of West Prince, the small town of Alberton is located in Prince County on the northwest shore of the Island.",
+        "colleges" : ["Alberton Science college", "Alberton Arts College", "Alberton Engineering College"]
+    },
+    {
+        "cName" : "Cornwall",
+        "province" : "Prince Edward Island",
+        "abbreviation": "PE",
+        "description" : "The Town of Cornwall is located in Queens County immediately to the west of Prince Edward Island's capital and largest city, Charlottetown.",
+        "colleges" : ["Cornwall Science college", "Cornwall Arts College", "Cornwall Engineering College"]
+    },
+    {
+        "cName" : "Watson Lake",
+        "province" : "Yukon Territory",
+        "abbreviation": "YT",
+        "description" : "Watson Lake is a small lake city in southern Yukon, Canada.",
+        "colleges" : ["Watson Lake Science college", "Watson Lake Arts College", "Watson Lake Engineering College"]
+    },
+    {
+        "cName" : "Haines Junction",
+        "province" : "Yukon Territory",
+        "abbreviation": "YT",
+        "description" : "Haines Junction is a small lake city in southern Yukon, Canada",
+        "colleges" : ["Haines Junction Science college", "Haines Junction Arts College", "Haines Junction Engineering College"]
+    },
+    {
+        "cName" : "Faro",
+        "province" : "Yukon Territory",
+        "abbreviation": "YT",
+        "description" : "Faro is a small lake city in southern Yukon, Canada",
+        "colleges" : ["Faro Science college", "Faro Arts College", "Faro Engineering College"]
+    },
+    
+    {
+        "cName" : "Norman Wells",
+        "province" : "Northwest Territories",
+        "abbreviation": "NT",
+        "description" : "Norman Wells is an historic town of about 800 nestled between the Mackenzie River and the Franklin Mountains.",
+        "colleges" : ["Norman Wells Science college", "Norman Wells Arts College", "Norman Wells Engineering College"]
+    },
+    {
+        "cName" : "Fort Simpson",
+        "province" : "Northwest Territories",
+        "abbreviation": "NT",
+        "description" : "Fort Simpson is the regional centre of the Dehcho and is the gateway to the scenic South Nahanni River and the Nahanni National Park Reserve.",
+        "colleges" : ["Fort Simpson Science college", "Fort Simpson Arts College", "Fort Simpson Engineering College"]
+    },
+    {
+        "cName" : "Winnipeg",
+        "province" : "Manitoba",
+        "abbreviation": "MB",
+        "description" : "The City of Winnipeg is located at the junction of the Red and Assiniboine Rivers, almost at the geographic centre of North America.",
+        "colleges" : [" Winnipeg Science college", "Winnipeg Arts College", "Winnipeg Engineering College"]
+    },
+    {
+        "cName" : "Selkirk",
+        "province" : "Manitoba",
+        "abbreviation": "MB",
+        "description" : "Selkirk is one of the oldest royal burghs in Scotland, with a history dating back to before the 12th century. The town name is a combination of old Scots words meaning 'the church in the forest'.",
+        "colleges" : ["Selkirk Science college", "Selkirk Arts College", "Selkirk Engineering College"]
+    },
+    {
+        "cName" : "Portage la Prairie",
+        "province" : "Manitoba",
+        "abbreviation": "MB",
+        "description" : "Portage la Prairie is a city of over 13,000 people (2016) in the Central Plains region of Manitoba.",
+        "colleges" : ["Portage la Prairie Science college", "Portage la Prairie Arts College", "Portage la Prairie Engineering College"]
+    },
+    {
+        "cName" : "Kugluktuk",
+        "province" : "Nunavut",
+        "abbreviation": "NU",
+        "description" : "Kugluktuk is a stunning community located at the mouth of the Coppermine River. ",
+        "colleges" : [" Kugluktuk Science college", "Kugluktuk Arts College", "Kugluktuk Engineering College"]
+    },
+    {
+        "cName" : "Gjoa Haven",
+        "province" : "Nunavut",
+        "abbreviation": "NU",
+        "description" : "Gjoa Haven is a famous natural harbour 250 km above the Arctic Circle, with its adjacent hamlet, on the southeast coast of King William Island, in Nunavut.",
+        "colleges" : ["Gjoa Haven Science college", " Gjoa Haven Arts College", "Gjoa Haven Engineering College"]
+    },
+    {
+        "cName" : "Teslin",
+        "province" : "Nunavut",
+        "abbreviation": "NU",
+        "description" : "A small, scenic village where a big lake meets a bay—Teslin is an enjoyable stop for travellers looking for history, culture and nature.",
+        "colleges" : ["Teslin Science college", "Teslin Arts College", "Teslin Engineering College"]
+    },
+    {
+        "cName" : "Swift Current",
+        "province" : "Saskatchewan",
+        "abbreviation": "SK",
+        "description" : "Swift Current is the fifth largest city in the Canadian province of Saskatchewan.",
+        "colleges" : ["Swift Current Science college", "Swift Current Arts College", "Swift Current Engineering College"]
+    },
+    {
+        "cName" : "Yorkton",
+        "province" : "Saskatchewan",
+        "abbreviation": "SK",
+        "description" : "Yorkton is a city located in south-eastern Saskatchewan, Canada",
+        "colleges" : ["Yorkton Science college", "Yorkton Arts College", "Yorkton Engineering College"]
+    },
+    {
+        "cName" : "Moose Jaw",
+        "province" : "Saskatchewan",
+        "abbreviation": "SK",
+        "description" : "Moose Jaw is an industrial centre and important railway junction for the area's agricultural produce",
+        "colleges" : ["Moose Jaw Science college", "Moose Jaw Arts College", "Moose Jaw Engineering College"]
+    },
+    {
+        "cName" : "Calgary",
+        "province" : "Alberta",
+        "abbreviation": "AB",
+        "description" : "It is the financial centre of western Canada, based on its key role in the development of the region's oil and gas industry.",
+        "colleges" : ["Calgary Science college", "Calgary Arts College", "Calgary Engineering College"]
+    },
+    {
+        "cName" : "Edmonton",
+        "province" : "Alberta",
+        "abbreviation": "AB",
+        "description" : "Edmonton is the fifth largest city in Canada and the capital city of the province of Alberta.",
+        "colleges" : ["Edmonton Science college", "Edmonton Arts College", "Edmonton Engineering College"]
+    },
+    {
+        "cName" : "Lethbridge",
+        "province" : "Alberta",
+        "abbreviation": "AB",
+        "description" : "Lethbridge is known for its bright sunshine (more than 320 days per year), warm summers, and mild winters thanks to our semi-arid climate and Chinook winds.",
+        "colleges" : ["Lethbridge Science college", "Lethbridge Arts College", "Lethbridge Engineering College"]
+    },
+    {
+        "cName" : "Fort Smith",
+        "province" : "Northwest Territories",
+        "abbreviation": "NT",
+        "description" : "Fort Smith is a town in the South Slave Region of the Northwest Territories (NWT), Canada. ",
+        "colleges" : ["Fort Smith Science college", "Fort Smith Arts College", "Fort Smith Engineering College"]
+    },
+    {
+        "cName" : "Labrador City",
+        "province" : "Newfoundland and Labrador",
+        "abbreviation": "NL",
+        "description" : "Labrador City is a town in western Labrador (part of the Canadian province of Newfoundland and Labrador), near the Quebec border. ",
+        "colleges" : ["Labrador City Science college", "Labrador City Arts College", "Labrador City Engineering College"]
+    },
+    {
+        "cName" : "Mount Pearl",
+        "province" : "Newfoundland and Labrador",
+        "abbreviation": "NL",
+        "description" : "Mount Pearl is known as a city within a park. Enjoy over 60 parks, playgrounds, and trails, as well as a swimming pool, fitness centre and skating arena.",
+        
+        "colleges" : ["Mount Pearl Science college", "Mount Pearl Arts College", "Mount Pearl Engineering College"]
+    },
+    {
+        "cName" : "Paradise",
+        "province" : "Newfoundland and Labrador",
+        "abbreviation": "NL",
+        "description" : "Paradise is a town on the Avalon Peninsula in the province of Newfoundland and Labrador, Canada. Paradise is the third largest settlement in the province .",
+      
+        "colleges" : ["Paradise Science college", " Paradise Arts College", "Paradise Engineering College"]
+    },
+    {
+        "cName" : "Halifax Regional Municipality",
+        "province" : "Nova Scotia",
+        "abbreviation": "NS",
+        "description" : "The Halifax Regional Municipality (HRM) is the vibrant, thriving economic hub of Canada's East Coast. ",
+        "colleges" : [" Halifax Regional Science college", " Halifax Regional Arts College", " Halifax Regional Engineering College"]
+    },
+    {
+        "cName" : "New Glasgow",
+        "province" : "Nova Scotia",
+        "abbreviation": "NS",
+        "description" : "New Glasgow is a beautiful riverside town of 9,562 residents, located in northern Nova Scotia, which serves as the commercial-service centre for the region of Pictou County with a population of 45,643.",
+        "colleges" : ["New Glasgow Science college", "New Glasgow Arts College", "New Glasgow Engineering College"]
+    },
+    {
+        "cName" : "Truro",
+        "province" : "Nova Scotia",
+        "abbreviation": "NS",
+        "description" : "Truro is a cathedral city and civil parish in Cornwall, England. It is Cornwall's county town, sole city and centre for administration, leisure and retail trading. Its population was 18,766 in the 2011 census. People of Truro can be called Truronians",
+        "colleges" : [" Truro Science college", "Truro Arts College", "Truro Engineering College"]
+    }
+
+]

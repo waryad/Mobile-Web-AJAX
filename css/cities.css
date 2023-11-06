@@ -1,0 +1,88 @@
+body {
+  background-color: #f0f0f0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: #333;
+}
+
+header {
+  background-color: #3498db;
+  padding: 20px;
+  color: white;
+}
+
+footer {
+  background-color: #3498db;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+h1 {
+  background-color: #3498db;
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  background-color: #6ab0de;
+  padding: 5px;
+  color: #333;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  color: #333;
+}
+
+.styledetail {
+  border: 1px solid #ddd;
+  background: rgba(0, 0, 255, 0.1);
+  padding: 20px;
+  margin: 20px;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.cityDetails {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, auto));
+  grid-gap: 20px;
+  max-width: 1240px;
+  padding: 10px;
+  margin: 20px auto;
+}
+
+@media screen and (max-width: 992px) {
+  body {
+    background-color: #40c057;
+    color: white;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: #85daf7;
+    color: #333;
+  }
+}

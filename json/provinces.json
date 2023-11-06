@@ -1,0 +1,102 @@
+[   {
+        "myproName": "Ontario",
+        "proAbb": "ON",
+        "proimage" : "../images/ontario.png",
+        "description" : "Ontario is the country’s most populous province, home more than 13,650,000 people. It is also the second-largest province in the country by land area. The province is located in central Canada.",
+        "cities" : ["Mississauga", "Brampton",  "Vaughn"]
+    }, 
+    {
+        "myproName": "British Columbia",
+        "proAbb": "BC",
+        "proimage" : "../images/BritishColumbia.png",
+        "description" : "B.C. is the western-most province in Canada, bordering the Pacific Ocean. Internationally known for its stunning natural beauty (there are six national parks), British Columbia is home to more than 4.6 million people. While most of these residents live in the Lower Mainland area, British Columbia’s land area is the size of France, Germany and the Netherlands combined. ",
+        "cities" : ["Vancouver", "Abbotsford", "Surrey"]
+    }, 
+    {
+        "myproName": "Quebec",
+        "proAbb": "QC",
+        "proimage" : "../images/quebec.png",
+        "description" : "Quebec is a French speaking province in north eastern Canada. It the largest of the 10 Canadian provinces. Most of its population lives in the southern parts of the province.",
+        "cities" : ["Québec City", "Montreal", "Levis"]
+    },
+     {
+        "myproName": "New Brunswick",
+        "proAbb": "NB",
+        "proimage" : "../images/newbrunswick.png",
+        "description" : "New Brunswick is one of the four Atlantic provinces of Canada and home to approximately 760,000 people. The province is home to wide areas of unspoiled nature, as forests occupy the great majority of the province's land mass. New Brunswick also includes a number of coastal islands.",
+        "cities" : ["Saint John", "Edmundston", "Moncton"]
+    }, 
+    {
+        "myproName": "Northwest Territories",
+        "proAbb": "NT",
+        "proimage" : "../images/nwterritory.png",
+        "description" : "The Northwest Territories were inhabited by Inuit and First Nations peoples long before the Europeans arrived in search of the elusive Northwest Passage. Native Inuit included the Mackenzie, Copper, Caribou and Central nations. ",
+        "cities" : ["Norman Wells", "Fort Simpson", "Fort Smith"]
+    },
+    {
+        "myproName": "Prince Edward Island",
+        "proAbb": "PE",
+        "proimage" : "../images/pei.png",
+        "description" : "Prince Edward Island (P.E.I.), also called the Island, one of the Maritime Provinces of Canada. Curving from North Cape to East Point, “the Island,” as Prince Edward Islanders refer to the province, is about 140 miles (225 km) long, ranging from 2 to 40 miles (3 to 65 km) in width. It lies between 46° and 47° N latitude and 62° and 64° W longitude..",
+        "cities" : ["Kensington", "Alberton", "Cornwall"]
+    },
+    {
+        "myproName": "Yukon Territory",
+        "proAbb": "YT",
+        "proimage" : "../images/yukon.png",
+        "description" : "The Yukon, a territory in northwest Canada, is wild, mountainous and sparsely populated. Kluane National Park and Reserve includes Mount Logan, Canada's highest peak, as well as glaciers, trails and the Alsek River. In the far north is Ivvavik National Park, with protected calving grounds for Porcupine caribou. In the south are numerous glacier-fed alpine lakes, including boldly coloured Emerald Lake. ",
+        "cities" : ["Watson Lake", "Haines Junction", "Faro"]
+    },
+    {
+        "myproName": "Nunavut",
+        "proAbb": "NU",
+        "proimage" : "../images/nunavut.png",
+        "description" : "Nunavut, which means Nunavut, which means our land in Inuktitut, the Inuit language, is Canada's largest territory, representing one-fifth of Canada's land mass. Nunavut was a part of the Northwest Territories until 1999, when it became a separate Canadian territory. in Inuktitut, the Inuit language, is Canada's largest territory, representing one-fifth of Canada's land mass. Nunavut was a part of the Northwest Territories until 1999, when it became a separate Canadian territory.",
+        "cities" : ["Kugluktuk", "Gjoa Haven", "Teslin"]
+    }, 
+    {
+        "myproName": "Manitoba",
+        "proAbb": "MB",
+        "proimage" : "../images/manitoba.png",
+        "description" : "Manitoba is a prairie province located in the Centre of Canada. Founded in 1870, Manitoba means where the spirit lives in the languages of the Indigenous people who first lived in the region. Commonly referred to as 'Friendly Manitoba' urban and rural communities are diverse and welcoming",
+        "cities" : ["Winnipeg", "Selkirk", "Portage la Prairie"]
+    },
+    {
+        "myproName": "Saskatchewan",
+        "proAbb": "SK",
+        "proimage" : "../images/saskatchewan.png",
+        "description" : "Saskatchewan, province of Canada, one of the Prairie Provinces. It is one of only two Canadian provinces without a saltwater coast, and it is the only province whose boundaries are all wholly artificial (i.e., not formed by natural features)",
+        "cities" : ["Swift Current", "Yorkton", "Moose Jaw"]
+    },
+    {
+        "myproName": "Alberta",
+        "proAbb": "AB",
+        "proimage" : "../images/alberta.png",
+        "description" : "Alberta is one of the thirteen provinces and territories of Canada. It is part of Western Canada and is one of the three prairie provinces. ",
+        "cities" : ["Calgary", "Edmonton", "Lethbridge"]
+    },
+    {
+        "myproName": "Newfoundland and Labrador",
+        "proAbb": "NL",
+        "proimage" : "../images/newfoundland.png",
+        "description" : "Newfoundland and Labrador, province of Canada composed of the island of Newfoundland and a larger mainland sector, Labrador, to the northwest. It is the newest of Canada’s 10 provinces, ",
+        "cities" : ["Labrador City", "Mount Pearl", "Paradise"]
+    },
+    {
+        "myproName": "Nova Scotia",
+        "proAbb": "NS",
+        "proimage" : "../images/novascotia.png",
+        "description" : "Nova Scotia is one of the four Atlantic provinces of Canada and home to nearly 1 million people. Located on Canada's east coast Nova Scotia includes over 3,800 coastal islands in addition to the mainland territory. ",
+        "cities" : ["Halifax Regional Municipality", "New Glasgow", "Truro"]
+    }
+    
+ 
+]
+   
+   
+   
+   
+    
+    
+   
+    

@@ -1,0 +1,78 @@
+*
+  body {
+    background-color: #ffffff;
+    background-position: right top;
+    background-position: right top;
+    text-align: center; 
+  }
+ 
+  header{ 
+    background-color:skyblue;
+    text-align:center; 
+  }
+  footer {
+    background-color:skyblue;
+    text-align:center; 
+  }
+  h3{
+    border-style: dotted;
+    text-align: center;
+    color:#4CAF50;
+    background-color:pink;
+  }
+  h1{
+    background-color:beige;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+   padding: 10px;
+  }
+  .title{
+    text-align: center;
+    background-color: black;
+    color: white;
+  }
+  
+  .myproList{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, auto));
+    grid-gap: 50px;
+    margin: 20px auto;
+    max-width: 1240px;
+    padding: 10px;
+  }
+  
+  .province{
+    padding: 10px;
+    border: 3px solid #edede9;
+    box-shadow: 0 3px 3px #dee2e6;
+    border-radius: 6px;
+  }
+
+  
+  .button{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+ cursor: pointer;
+  }
+  
+  @media screen and (max-width: 992px) {
+    body {
+      background-color: rgb(62, 236, 65);
+      color: white;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: rgb(133, 218, 247);
+      color: white;
+    }
+    
+  }
+  
